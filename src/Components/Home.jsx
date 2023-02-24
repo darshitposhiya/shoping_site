@@ -5,7 +5,7 @@ const Home=()=> {
     return (
         <div className='hero'>
             <div className="card bg-dark text-white border-0">
-            <img className="card-img-top" src="/images/bg.jpg" alt="Card image cap" height='550px'/>
+            <img className="card-img-top" src="/shoping_site/images/bg.jpg" alt="Card image cap" height='550px'/>
             <div className="card-img-overlay d-flex flex-column justify-content-center ">
                 <div className="container text-black">
                 <h5 className="card-title display-5 fw-bolder mb-0">NEW SEASON ARRIVALS</h5>
