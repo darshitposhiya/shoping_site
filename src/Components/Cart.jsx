@@ -1,5 +1,5 @@
 import React from 'react';
-import { NavLink } from 'react-bootstrap';
+import { NavLink } from 'react-router-dom';
 import { useSelector,useDispatch} from 'react-redux';
 import {addCart,delCart} from '../store/action'
 
@@ -67,9 +67,16 @@ const Cart=()=> {
             <>
             <div className="container">
                 <div className="row">
-                    <NavLink to='/Checkout' className='btn btn-outline-dark mb-5 w-25 mx-auto'>
-                        Proceed to checkout
+                  <div className='col-md-6'>
+                  <NavLink to='/Products' className='btn btn-dark mb-5 w-50 mx-auto text-white'>
+                        Back To Shop
                     </NavLink>
+                  </div>
+                  <div className='col-md-6 text-end'>
+                  <NavLink to='/Checkout' className='btn btn-dark mb-5 w-50 mx-auto text-white'>
+                        Go To Checkout
+                    </NavLink>
+                  </div>  
                 </div>
             </div>
             </>

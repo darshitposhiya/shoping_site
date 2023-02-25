@@ -6,6 +6,7 @@ import Home from "./Components/Home";
 import Products from "./Components/Products";
 import Productsss from "./Components/Productsss";
 import Cart from './Components/Cart'
+import Checkout from "./Components/Checkout";
 
 
 function App() {
@@ -17,7 +18,7 @@ function App() {
     <Route path="/Products" element={<Products/>}></Route>
     <Route path="/Productsss/:id" element={<Productsss/>}></Route>
     <Route path="/Cart" element={<Cart/>}></Route>
-    
+    <Route path="/Checkout" element={<Checkout/>}></Route>
    </Routes>
 
 </>
