@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/shoping_site/static/css/main.0d1e36c2.css",
+    "main.js": "/shoping_site/static/js/main.2a394169.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/shoping_site/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/shoping_site/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/shoping_site/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/shoping_site/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/shoping_site/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/shoping_site/index.html",
+    "main.0d1e36c2.css.map": "/shoping_site/static/css/main.0d1e36c2.css.map",
+    "main.2a394169.js.map": "/shoping_site/static/js/main.2a394169.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d1e36c2.css",
+    "static/js/main.2a394169.js"
+  ]
+}
